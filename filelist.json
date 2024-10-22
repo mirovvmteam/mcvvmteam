@@ -37,18 +37,43 @@
         }
       ]
     },
-    {
-      "description": "Cấu hình 3",
+	{
+      "description": "Bầu trời đẹp hơn - DramaticSkys",
       "files": [
         {
-          "url": "https://example.com/image_config_3_1.zip",
-          "hash": "sha256_hash_of_image_config_3_1",
-          "subdir": "mod"
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/respacks/DramaticSkys.zip",
+          "hash": "792ff536f050dca91f25455da74b9577d2bfc85bf7f48b6d4bf236239108b463",
+          "subdir": "resourcepacks"
+        }
+      ]
+    },
+    {
+      "description": "Loli ở dưới tầng hầm - Cute Mob Models",
+      "files": [
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/respacks/CMMRP.zip",
+          "hash": "e481bd3e4b638607213e309b7e753ce65e3c79c0b2fde47d5f17e4ef0cc73e19",
+          "subdir": "resourcepacks"
         },
         {
-          "url": "https://example.com/image_config_3_2.zip",
-          "hash": "sha256_hash_of_image_config_3_2",
-          "subdir": "mod"
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/mods/entity_model_features_fabric_1.21-2.2.6.jar",
+          "hash": "8850dc0718eb251cabb456c38d25b2952f94e35f02eae6d84a6c1b8adb89fb4b",
+          "subdir": "mods"
+        },
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/mods/entity_texture_features_fabric_1.21-6.2.5.jar",
+          "hash": "8ec8918625fcba4c94c5d225dcaf68bf94d658241281ef3cf528f43a5aae4ce1",
+          "subdir": "mods"
+        },
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/mods/animatica-0.6.1+1.21.jar",
+          "hash": "dd46dd3e1d78e5874ad8723b177c4b1f7bf19cb5954e47c1021f388e6104947c",
+          "subdir": "mods"
+        },
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/mods/citresewn-1.2.2+1.21.jar",
+          "hash": "27f960a57597539cb8dfdd7a926268a123177322b14bea113415a56825c01776",
+          "subdir": "mods"
         }
       ]
     }
