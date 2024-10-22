@@ -28,7 +28,7 @@
   ],
   "Thay đổi trải nghiệm": [
     {
-      "description": "Thay đổi đèn lồng",
+      "description": "Thay đổi đèn lồng - BetterLanterns",
       "files": [
         {
           "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/respacks/BetterLanterns.zip",
@@ -37,6 +37,16 @@
         }
       ]
     },
+{
+      "description": "Bầu trời đẹp hơn - DramaticSkys",
+      "files": [
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/respacks/DramaticSkys.zip",
+          "hash": "2b1c802be7207ac488c071ba79f54ea44227bd5d7d815f16a710a4e25da8d385",
+          "subdir": "resourcepacks"
+        }
+      ]
+    }
     {
       "description": "Cấu hình 3",
       "files": [
