@@ -37,7 +37,7 @@
         }
       ]
     },
-{
+	{
       "description": "Bầu trời đẹp hơn - DramaticSkys",
       "files": [
         {
@@ -46,7 +46,7 @@
           "subdir": "resourcepacks"
         }
       ]
-    }
+    },
     {
       "description": "Cấu hình 3",
       "files": [
