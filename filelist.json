@@ -4,13 +4,23 @@
       "description": "Các mod giảm lag cơ bản",
       "files": [
         {
-          "url": "https://example.com/graphics_config_2_1.zip",
-          "hash": "sha256_hash_of_graphics_config_2_1",
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/mods/enhancedblockentities-0.10.2+1.21.jar",
+          "hash": "61396ddd5990ae8177165492067c4b02e2ebacbd7be3e97eb37a46aae13c9679",
           "subdir": "mods"
         },
         {
-          "url": "https://example.com/graphics_config_2_2.zip",
-          "hash": "sha256_hash_of_graphics_config_2_2",
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/mods/fabric-api-0.102.0+1.21.jar",
+          "hash": "7ec0e5a11e77957fe1ed0328487921a8211bb7eace14298cd74635bec61a3f26",
+          "subdir": "mods"
+        },
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/mods/modmenu-11.0.3.jar",
+          "hash": "a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428",
+          "subdir": "mods"
+        },
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/mods/sodium-fabric-0.5.11+mc1.21.jar",
+          "hash": "3bf1783f9081d28067457734eff52f4579b6b8378c075663784684f6f2f1aa37",
           "subdir": "mods"
         }
       ]
@@ -18,17 +28,12 @@
   ],
   "Thay đổi trải nghiệm": [
     {
-      "description": "Cấu hình 1",
+      "description": "Thay đổi đèn lồng",
       "files": [
         {
-          "url": "https://example.com/image_config_1_1.zip",
-          "hash": "sha256_hash_of_image_config_1_1",
-          "subdir": "mod"
-        },
-        {
-          "url": "https://example.com/image_config_1_2.zip",
-          "hash": "sha256_hash_of_image_config_1_2",
-          "subdir": "texture"
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/respacks/BetterLanterns.zip",
+          "hash": "2b1c802be7207ac488c071ba79f54ea44227bd5d7d815f16a710a4e25da8d385",
+          "subdir": "resourcepacks"
         }
       ]
     },
