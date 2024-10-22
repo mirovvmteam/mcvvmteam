@@ -1,0 +1,61 @@
+{
+  "Cải thiện đồ họa": [
+    {
+      "description": "Cấu hình 1",
+      "files": [
+        {
+          "url": "https://example.com/graphics_config_1.zip",
+          "hash": "sha256_hash_of_graphics_config_1",
+          "subdir": "mod"
+        }
+      ]
+    },
+    {
+      "description": "Cấu hình 2",
+      "files": [
+        {
+          "url": "https://example.com/graphics_config_2_1.zip",
+          "hash": "sha256_hash_of_graphics_config_2_1",
+          "subdir": "mod"
+        },
+        {
+          "url": "https://example.com/graphics_config_2_2.zip",
+          "hash": "sha256_hash_of_graphics_config_2_2",
+          "subdir": "texture"
+        }
+      ]
+    }
+  ],
+  "Cải thiện hình ảnh": [
+    {
+      "description": "Cấu hình 1",
+      "files": [
+        {
+          "url": "https://example.com/image_config_1_1.zip",
+          "hash": "sha256_hash_of_image_config_1_1",
+          "subdir": "mod"
+        },
+        {
+          "url": "https://example.com/image_config_1_2.zip",
+          "hash": "sha256_hash_of_image_config_1_2",
+          "subdir": "texture"
+        }
+      ]
+    },
+    {
+      "description": "Cấu hình 3",
+      "files": [
+        {
+          "url": "https://example.com/image_config_3_1.zip",
+          "hash": "sha256_hash_of_image_config_3_1",
+          "subdir": "mod"
+        },
+        {
+          "url": "https://example.com/image_config_3_2.zip",
+          "hash": "sha256_hash_of_image_config_3_2",
+          "subdir": "mod"
+        }
+      ]
+    }
+  ]
+}
