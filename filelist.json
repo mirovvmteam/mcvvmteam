@@ -37,16 +37,6 @@
         }
       ]
     },
-	{
-      "description": "Bầu trời đẹp hơn - DramaticSkys",
-      "files": [
-        {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/respacks/DramaticSkys.zip",
-          "hash": "792ff536f050dca91f25455da74b9577d2bfc85bf7f48b6d4bf236239108b463",
-          "subdir": "resourcepacks"
-        }
-      ]
-    },
     {
       "description": "Cấu hình 3",
       "files": [
