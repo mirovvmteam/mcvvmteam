@@ -1,32 +1,22 @@
 {
-  "Cải thiện đồ họa": [
+  "Cấu hình trò chơi": [
     {
-      "description": "Cấu hình 1",
-      "files": [
-        {
-          "url": "https://example.com/graphics_config_1.zip",
-          "hash": "sha256_hash_of_graphics_config_1",
-          "subdir": "mod"
-        }
-      ]
-    },
-    {
-      "description": "Cấu hình 2",
+      "description": "Các mod giảm lag cơ bản",
       "files": [
         {
           "url": "https://example.com/graphics_config_2_1.zip",
           "hash": "sha256_hash_of_graphics_config_2_1",
-          "subdir": "mod"
+          "subdir": "mods"
         },
         {
           "url": "https://example.com/graphics_config_2_2.zip",
           "hash": "sha256_hash_of_graphics_config_2_2",
-          "subdir": "texture"
+          "subdir": "mods"
         }
       ]
     }
   ],
-  "Cải thiện hình ảnh": [
+  "Thay đổi trải nghiệm": [
     {
       "description": "Cấu hình 1",
       "files": [
