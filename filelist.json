@@ -4,22 +4,22 @@
       "description": "Các mod giảm lag cơ bản",
       "files": [
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/mods/enhancedblockentities-0.10.2+1.21.jar",
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/enhancedblockentities-0.10.2+1.21.jar",
           "hash": "61396ddd5990ae8177165492067c4b02e2ebacbd7be3e97eb37a46aae13c9679",
           "subdir": "mods"
         },
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/mods/fabric-api-0.102.0+1.21.jar",
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/fabric-api-0.102.0+1.21.jar",
           "hash": "7ec0e5a11e77957fe1ed0328487921a8211bb7eace14298cd74635bec61a3f26",
           "subdir": "mods"
         },
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/mods/modmenu-11.0.3.jar",
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/modmenu-11.0.3.jar",
           "hash": "a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428",
           "subdir": "mods"
         },
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/mods/sodium-fabric-0.5.11+mc1.21.jar",
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/sodium-fabric-0.5.11+mc1.21.jar",
           "hash": "3bf1783f9081d28067457734eff52f4579b6b8378c075663784684f6f2f1aa37",
           "subdir": "mods"
         }
@@ -31,7 +31,7 @@
       "description": "Thay đổi đèn lồng - BetterLanterns",
       "files": [
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/respacks/BetterLanterns.zip",
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/respacks/BetterLanterns.zip",
           "hash": "2b1c802be7207ac488c071ba79f54ea44227bd5d7d815f16a710a4e25da8d385",
           "subdir": "resourcepacks"
         }
@@ -41,7 +41,7 @@
       "description": "Bầu trời đẹp hơn - DramaticSkys",
       "files": [
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/respacks/DramaticSkys.zip",
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/respacks/DramaticSkys.zip",
           "hash": "792ff536f050dca91f25455da74b9577d2bfc85bf7f48b6d4bf236239108b463",
           "subdir": "resourcepacks"
         }
@@ -51,32 +51,32 @@
       "description": "Loli ở dưới tầng hầm - Cute Mob Models/Voice",
       "files": [
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/respacks/CMMRP.zip",
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/respacks/CMMRP.zip",
           "hash": "e481bd3e4b638607213e309b7e753ce65e3c79c0b2fde47d5f17e4ef0cc73e19",
           "subdir": "resourcepacks"
         },
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/respacks/CuteMobVoice.zip",
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/respacks/CuteMobVoice.zip",
           "hash": "57cbeaa462216966974c2bfd8a8499bf7d485b62563d7c1465251c62b7db4ec2",
           "subdir": "mods"
         },
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/mods/entity_model_features_fabric_1.21-2.2.6.jar",
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/entity_model_features_fabric_1.21-2.2.6.jar",
           "hash": "8850dc0718eb251cabb456c38d25b2952f94e35f02eae6d84a6c1b8adb89fb4b",
           "subdir": "mods"
         },
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/mods/entity_texture_features_fabric_1.21-6.2.5.jar",
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/entity_texture_features_fabric_1.21-6.2.5.jar",
           "hash": "8ec8918625fcba4c94c5d225dcaf68bf94d658241281ef3cf528f43a5aae4ce1",
           "subdir": "mods"
         },
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/mods/animatica-0.6.1+1.21.jar",
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/animatica-0.6.1+1.21.jar",
           "hash": "dd46dd3e1d78e5874ad8723b177c4b1f7bf19cb5954e47c1021f388e6104947c",
           "subdir": "mods"
         },
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/refs/heads/main/require/mods/citresewn-1.2.2+1.21.jar",
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/citresewn-1.2.2+1.21.jar",
           "hash": "27f960a57597539cb8dfdd7a926268a123177322b14bea113415a56825c01776",
           "subdir": "mods"
         }
