@@ -58,7 +58,7 @@
         {
           "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/respacks/CuteMobVoice.zip",
           "hash": "57cbeaa462216966974c2bfd8a8499bf7d485b62563d7c1465251c62b7db4ec2",
-          "subdir": "mods"
+          "subdir": "resourcepacks"
         },
         {
           "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/entity_model_features_fabric_1.21-2.2.6.jar",
