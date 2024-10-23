@@ -37,16 +37,6 @@
         }
       ]
     },
-	{
-      "description": "Bầu trời đẹp hơn - DramaticSkys",
-      "files": [
-        {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/respacks/DramaticSkys.zip",
-          "hash": "792ff536f050dca91f25455da74b9577d2bfc85bf7f48b6d4bf236239108b463",
-          "subdir": "resourcepacks"
-        }
-      ]
-    },
     {
       "description": "Loli ở dưới tầng hầm - Cute Mob Models/Voice",
       "files": [
@@ -54,6 +44,11 @@
           "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/respacks/CMMRP.zip",
           "hash": "e481bd3e4b638607213e309b7e753ce65e3c79c0b2fde47d5f17e4ef0cc73e19",
           "subdir": "resourcepacks"
+        },
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/fabric-api-0.102.0+1.21.jar",
+          "hash": "7ec0e5a11e77957fe1ed0328487921a8211bb7eace14298cd74635bec61a3f26",
+          "subdir": "mods"
         },
         {
           "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/respacks/CuteMobVoice.zip",
