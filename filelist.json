@@ -28,6 +28,16 @@
   ],
   "Thay đổi trải nghiệm": [
     {
+      "description": "V.V.M Team HD",
+      "files": [
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/respacks/VVM_Pack.zip",
+          "hash": "1f412d9c0a7d829854345bed30d5c0342f33a116bafd2993933374da5ba1b759",
+          "subdir": "resourcepacks"
+        }
+      ]
+    },
+    {
       "description": "Thay đổi đèn lồng - BetterLanterns",
       "files": [
         {
@@ -73,6 +83,25 @@
         {
           "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/citresewn-1.2.2+1.21.jar",
           "hash": "27f960a57597539cb8dfdd7a926268a123177322b14bea113415a56825c01776",
+          "subdir": "mods"
+        }
+      ]
+    }
+  ],
+
+
+  "Shadderpack": [
+    {
+      "description": "Astra Advanced",
+      "files": [
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/shaders/Astra.zip",
+          "hash": "70b6d8127a6733f0a19bd1d351b92709d6ee7496967ff49c4793d2c28c7a6c58",
+          "subdir": "shaderpacks"
+        },
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/iris-1.7.2+mc1.21.jar",
+          "hash": "7ec0e5a11e77957fe1ed0328487921a8211bb7eace14298cd74635bec61a3f26",
           "subdir": "mods"
         }
       ]
