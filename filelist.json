@@ -86,7 +86,47 @@
           "subdir": "mods"
         }
       ]
-    }
+    },
+    {
+      "description": "Continuity",
+      "files": [
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/continuity-3.0.0-beta.5+1.21.jar",
+          "hash": "9bb470dddfcc3d745e229c7fd9f9663a9411d22d37aa703e13abf986d06ee33b",
+          "subdir": "mods"
+        },
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/indium-1.0.35+mc1.21.jar",
+          "hash": "13bd78303315ca8f08ea19dfacce8566e152c56615e93a07c490965f390d4ed8",
+          "subdir": "mods"
+        }
+      ]
+    },
+    {
+      "description": "Loli ở dưới tầng hầm - Cute Mob Models/Voice",
+      "files": [
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/fabric-api-0.102.0+1.21.jar",
+          "hash": "7ec0e5a11e77957fe1ed0328487921a8211bb7eace14298cd74635bec61a3f26",
+          "subdir": "mods"
+        },
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/entity_model_features_fabric_1.21-2.2.6.jar",
+          "hash": "8850dc0718eb251cabb456c38d25b2952f94e35f02eae6d84a6c1b8adb89fb4b",
+          "subdir": "mods"
+        },
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/entity_texture_features_fabric_1.21-6.2.5.jar",
+          "hash": "8ec8918625fcba4c94c5d225dcaf68bf94d658241281ef3cf528f43a5aae4ce1",
+          "subdir": "mods"
+        },
+        {
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/respacks/Better_Animations.zip",
+          "hash": "4726429fd8200b086821cdc1a45f3335a7d1d8e486effc4add147a3871f1f8c8",
+          "subdir": "resourcepacks"
+        }
+      ]
+    },
   ],
 
 
