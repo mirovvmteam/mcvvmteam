@@ -1,4 +1,53 @@
 {
+  "shared": {
+    "mods": {
+      "fabric_api": {
+        "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/fabric-api-0.102.0+1.21.jar",
+        "hash": "7ec0e5a11e77957fe1ed0328487921a8211bb7eace14298cd74635bec61a3f26",
+        "subdir": "mods"
+      },
+      "entity_model_features": {
+        "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/entity_model_features_fabric_1.21-2.2.6.jar",
+        "hash": "8850dc0718eb251cabb456c38d25b2952f94e35f02eae6d84a6c1b8adb89fb4b",
+        "subdir": "mods"
+      },
+      "entity_texture_features": {
+        "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/entity_texture_features_fabric_1.21-6.2.5.jar",
+        "hash": "8ec8918625fcba4c94c5d225dcaf68bf94d658241281ef3cf528f43a5aae4ce1",
+        "subdir": "mods"
+      },
+      "animatica": {
+        "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/animatica-0.6.1+1.21.jar",
+        "hash": "dd46dd3e1d78e5874ad8723b177c4b1f7bf19cb5954e47c1021f388e6104947c",
+        "subdir": "mods"
+      },
+      "citresewn": {
+        "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/citresewn-1.2.2+1.21.jar",
+        "hash": "27f960a57597539cb8dfdd7a926268a123177322b14bea113415a56825c01776",
+        "subdir": "mods"
+      },
+      "mod_menu": {
+        "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/modmenu-11.0.3.jar",
+        "hash": "a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428",
+        "subdir": "mods"
+      },
+      "indium": {
+        "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/indium-1.0.35+mc1.21.jar",
+        "hash": "13bd78303315ca8f08ea19dfacce8566e152c56615e93a07c490965f390d4ed8",
+        "subdir": "mods"
+      },
+      "iris": {
+        "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/iris-1.7.2+mc1.21.jar",
+        "hash": "7ec0e5a11e77957fe1ed0328487921a8211bb7eace14298cd74635bec61a3f26",
+        "subdir": "mods"
+      },
+      "sodium": {
+        "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/sodium-fabric-0.5.11+mc1.21.jar",
+        "hash": "3bf1783f9081d28067457734eff52f4579b6b8378c075663784684f6f2f1aa37",
+        "subdir": "mods"
+      }
+    }
+  },
   "Cấu hình trò chơi": [
     {
       "description": "Các mod giảm lag cơ bản",
@@ -9,20 +58,13 @@
           "subdir": "mods"
         },
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/fabric-api-0.102.0+1.21.jar",
-          "hash": "7ec0e5a11e77957fe1ed0328487921a8211bb7eace14298cd74635bec61a3f26",
-          "subdir": "mods"
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/settings/enhanced_bes.properties",
+          "hash": "cca5bd64128ada7e6612aa538a6c6d94ce6e5d063ac8a1d8a7f3c0b8cbd51657",
+          "subdir": "config"
         },
-        {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/modmenu-11.0.3.jar",
-          "hash": "a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428",
-          "subdir": "mods"
-        },
-        {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/sodium-fabric-0.5.11+mc1.21.jar",
-          "hash": "3bf1783f9081d28067457734eff52f4579b6b8378c075663784684f6f2f1aa37",
-          "subdir": "mods"
-        }
+        { "$ref": "shared.mods.sodium" },
+        { "$ref": "shared.mods.fabric_api" },
+        { "$ref": "shared.mods.mod_menu" }
       ]
     }
   ],
@@ -56,35 +98,16 @@
           "subdir": "resourcepacks"
         },
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/fabric-api-0.102.0+1.21.jar",
-          "hash": "7ec0e5a11e77957fe1ed0328487921a8211bb7eace14298cd74635bec61a3f26",
-          "subdir": "mods"
-        },
-        {
           "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/respacks/CuteMobVoice.zip",
           "hash": "57cbeaa462216966974c2bfd8a8499bf7d485b62563d7c1465251c62b7db4ec2",
           "subdir": "resourcepacks"
         },
-        {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/entity_model_features_fabric_1.21-2.2.6.jar",
-          "hash": "8850dc0718eb251cabb456c38d25b2952f94e35f02eae6d84a6c1b8adb89fb4b",
-          "subdir": "mods"
-        },
-        {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/entity_texture_features_fabric_1.21-6.2.5.jar",
-          "hash": "8ec8918625fcba4c94c5d225dcaf68bf94d658241281ef3cf528f43a5aae4ce1",
-          "subdir": "mods"
-        },
-        {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/animatica-0.6.1+1.21.jar",
-          "hash": "dd46dd3e1d78e5874ad8723b177c4b1f7bf19cb5954e47c1021f388e6104947c",
-          "subdir": "mods"
-        },
-        {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/citresewn-1.2.2+1.21.jar",
-          "hash": "27f960a57597539cb8dfdd7a926268a123177322b14bea113415a56825c01776",
-          "subdir": "mods"
-        }
+        { "$ref": "shared.mods.fabric_api" },
+        { "$ref": "shared.mods.entity_model_features" },
+        { "$ref": "shared.mods.entity_texture_features" },
+        { "$ref": "shared.mods.animatica" },
+        { "$ref": "shared.mods.citresewn" },
+        { "$ref": "shared.mods.mod_menu" }
       ]
     },
     {
@@ -96,39 +119,29 @@
           "subdir": "mods"
         },
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/indium-1.0.35+mc1.21.jar",
-          "hash": "13bd78303315ca8f08ea19dfacce8566e152c56615e93a07c490965f390d4ed8",
-          "subdir": "mods"
-        }
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/settings/continuity.json",
+          "hash": "97e9b117a4c4e58a4a67189fc8e7b6f83408d7735db8ad5b5dd5c6b4d9b13910",
+          "subdir": "config"
+        },
+        { "$ref": "shared.mods.mod_menu" },
+        { "$ref": "shared.mods.indium" }
       ]
     },
     {
       "description": "Hoạt ảnh Xịn hơn - Better Animation",
       "files": [
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/fabric-api-0.102.0+1.21.jar",
-          "hash": "7ec0e5a11e77957fe1ed0328487921a8211bb7eace14298cd74635bec61a3f26",
-          "subdir": "mods"
-        },
-        {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/entity_model_features_fabric_1.21-2.2.6.jar",
-          "hash": "8850dc0718eb251cabb456c38d25b2952f94e35f02eae6d84a6c1b8adb89fb4b",
-          "subdir": "mods"
-        },
-        {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/entity_texture_features_fabric_1.21-6.2.5.jar",
-          "hash": "8ec8918625fcba4c94c5d225dcaf68bf94d658241281ef3cf528f43a5aae4ce1",
-          "subdir": "mods"
-        },
-        {
           "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/respacks/Better_Animations.zip",
           "hash": "4726429fd8200b086821cdc1a45f3335a7d1d8e486effc4add147a3871f1f8c8",
           "subdir": "resourcepacks"
-        }
+        },
+        { "$ref": "shared.mods.fabric_api" },
+        { "$ref": "shared.mods.entity_model_features" },
+        { "$ref": "shared.mods.entity_texture_features" },
+        { "$ref": "shared.mods.mod_menu" }
       ]
     }
   ],
-
 
   "Shadderpack": [
     {
@@ -140,10 +153,12 @@
           "subdir": "shaderpacks"
         },
         {
-          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/mods/iris-1.7.2+mc1.21.jar",
-          "hash": "7ec0e5a11e77957fe1ed0328487921a8211bb7eace14298cd74635bec61a3f26",
-          "subdir": "mods"
-        }
+          "url": "https://github.com/mirovvmteam/mcvvmteam/raw/main/require/settings/Astra.zip.txt",
+          "hash": "07158827c7a0209e74c55c5d6d716813ce1b4b259a12f16c0a84faf0d2d7332c",
+          "subdir": "shaderpacks"
+        },
+        { "$ref": "shared.mods.sodium" },
+        { "$ref": "shared.mods.iris" }
       ]
     }
   ]
